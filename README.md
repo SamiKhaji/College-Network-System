@@ -1,11 +1,11 @@
 # College-Network-System
 
-## TEAM
+### TEAM
 
-### CB.EN.U4CSE21412	Boya Abhiram	    cb.en.u4cse21412@cb.students.amrita.edu
-### CB.EN.U4CSE21430  K .Mahammad Sami	cb.en.u4cse21430@cb.students.amrita.edu
-### CB.EN.U4CSE21431	K.Adithya 	      cb.en.u4cse21431@cb.students.amrita.edu
-### CB.EN.U4CSE21462	T.Bhargavi	      cb.en.u4cse21462@cb.students.amrita.edu
+#### CB.EN.U4CSE21412	Boya Abhiram	    cb.en.u4cse21412@cb.students.amrita.edu
+#### CB.EN.U4CSE21430  K .Mahammad Sami	cb.en.u4cse21430@cb.students.amrita.edu
+#### CB.EN.U4CSE21431	K.Adithya 	      cb.en.u4cse21431@cb.students.amrita.edu
+#### CB.EN.U4CSE21462	T.Bhargavi	      cb.en.u4cse21462@cb.students.amrita.edu
 
 
 In today's dynamic educational landscape, colleges face the challenge of creating a robust and scalable network infrastructure that can meet the diverse communication and collaboration needs of different departments, students, and faculty members.
